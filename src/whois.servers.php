@@ -590,6 +590,15 @@ return array(
     'sochi.su'               => 'whois.nic.ru',
     'co.za'                  => 'http://co.za/cgi-bin/whois.sh?Domain={domain}.co.za',
     'org.za'                 => 'http://www.org.za/cgi-bin/rwhois?domain={domain}.org.za&format=full',
+    'biz.gl'                 => 'https://registry.hostbip.com/plainWhois?domainName={domain}.biz.gl',
+    'ng.ink'                 => 'https://registry.hostbip.com/plainWhois?domainName={domain}.ng.ink',
+    'ng.city'                => 'https://registry.hostbip.com/plainWhois?domainName={domain}.ng.city',
+    'ltd.ng'                 => 'https://registry.hostbip.com/plainWhois?domainName={domain}.ltd.ng',
+    'col.ng'                 => 'https://registry.hostbip.com/plainWhois?domainName={domain}.col.ng',
+    'gen.ng'                 => 'https://registry.hostbip.com/plainWhois?domainName={domain}.gen.ng',
+    'sch.so'                 => 'https://registry.hostbip.com/plainWhois?domainName={domain}.sch.so',
+    'orx.biz'                => 'https://registry.hostbip.com/plainWhois?domainName={domain}.orx.biz',
+    'bpl.biz'                => 'https://registry.hostbip.com/plainWhois?domainName={domain}.bpl.biz',
 
     // National tlds
     'xn--3bst00m'            => 'whois.gtld.knet.cn',
